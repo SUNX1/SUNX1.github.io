@@ -23,7 +23,7 @@ menu:
   - title: 'Tags'
     url: '/tags'
   - title: 'About'
-    url: '#'
+    url: '/about.html'
   
 # Owner/author information
 owner:
@@ -44,10 +44,8 @@ twitter:
 social:
   - title: "github"
     url: "https://github.com/sunx1"
-#  - title: "linkedin"
-#    url: "https://br.linkedin.com/in/aronbordin"
-#  - title: "youtube"
-#    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/sunx1/"
 
 # Background image to be tiled on all pages
 background:

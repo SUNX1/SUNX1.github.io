@@ -3,7 +3,7 @@ layout: post
 title: JavaScript模拟GameBoy:定时器
 description: "Translation of \"GameBoy Emulation in JavaScript\" series articles."
 modified: 2018-02-24
-tags: [GameBoy Emulation in JavaScript,Translation,JavaScript]
+tags: [Translation]
 categories: []
 ---
 

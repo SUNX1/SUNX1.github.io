@@ -3,7 +3,7 @@ layout: post
 title: JavaScript模拟GameBoy:整合
 description: "Translation of \"GameBoy Emulation in JavaScript\" series articles."
 modified: 2018-02-01
-tags: [GameBoy Emulation in JavaScript,Translation,JavaScript]
+tags: [Translation]
 categories: []
 ---
 

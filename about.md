@@ -16,7 +16,7 @@ share: false
             "Penny Board",
             "Reading",
             "Guitar",
-            "IL2"
+            "WarThunder"
         ]
     }
 

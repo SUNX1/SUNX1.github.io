@@ -9,7 +9,7 @@ share: false
         "Age" : "post-90s",
         "Gender" : "male",
         "Email" : "me@sunx.site",
-        "Location" : "Beijing",
+        "Location" : "Shijiazhuang",
         "Occupation" : "iOS Developer",
         "Github" : "https://github.com/SUNX1",
         "Hobbies" : [

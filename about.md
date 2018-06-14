@@ -13,10 +13,10 @@ share: false
         "Occupation" : "iOS Developer",
         "Github" : "https://github.com/SUNX1",
         "Hobbies" : [
-            "Penny Board",
             "Reading",
             "Guitar",
-            "WarThunder"
+            "WarThunder",
+            "Penny Board",
         ]
     }
 

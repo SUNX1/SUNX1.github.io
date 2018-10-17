@@ -23,7 +23,7 @@ menu:
   - title: 'Tags'
     url: '/tags'
   - title: 'About'
-    url: 'http://blog.sunx.site/about.html'
+    url: '/about'
   
 # Owner/author information
 owner:
